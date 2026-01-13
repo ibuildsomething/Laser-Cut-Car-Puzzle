@@ -1,6 +1,6 @@
-# Laser Cut Cybertruck Puzzle
+# Laser Cut Car Puzzle
 
-A 3D puzzle model of the Tesla Cybertruck, designed for laser cutting. The angular, polygonal design of the Cybertruck makes it perfect for flat-pack laser cut construction.
+A 3D puzzle model of the Tesla Cybertruck, designed for laser cutting using SolidWorks and Adobe Illustrator. The angular, polygonal design of the Cybertruck makes it perfect for flat-pack laser cut construction.
 
 ![Assembled Cybertruck](images/assembled.png)
 
